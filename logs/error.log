@@ -1,0 +1,14 @@
+{"level":"error","message":"Danggg: Database error","timestamp":"2025-05-01T07:04:35.009Z"}
+{"level":"error","message":"Danggg! Database error","timestamp":"2025-05-01T07:05:11.907Z"}
+{"level":"error","message":"Danggg: Super admin already exist","timestamp":"2025-05-01T07:09:17.352Z"}
+{"level":"error","message":"Danggg: E11000 duplicate key error collection: e-navbat-n20.admins index: username_1 dup key: { username: \"Toshmat\" }","timestamp":"2025-05-01T07:09:17.403Z"}
+{"level":"error","message":"Danggg: Admin not found","timestamp":"2025-05-02T07:19:23.889Z"}
+{"level":"error","message":"Danggg: Forbidden user","timestamp":"2025-05-02T07:22:40.607Z"}
+{"level":"error","message":"Danggg: Authorization error","timestamp":"2025-05-02T07:23:31.242Z"}
+{"level":"error","message":"Danggg: Authorization error","timestamp":"2025-05-02T07:27:01.998Z"}
+{"level":"error","message":"Danggg: Cannot populate path `Graph` because it is not in your schema. Set the `strictPopulate` option to false to override.","timestamp":"2025-05-02T07:31:43.756Z"}
+{"level":"error","message":"Danggg: Cannot populate path `Graph` because it is not in your schema. Set the `strictPopulate` option to false to override.","timestamp":"2025-05-02T07:31:45.585Z"}
+{"level":"error","message":"Danggg: ValidationError: \"graphs\" is not allowed","timestamp":"2025-05-02T07:37:38.044Z"}
+{"level":"error","message":"Danggg: ValidationError: \"graphs\" is not allowed","timestamp":"2025-05-02T07:37:50.402Z"}
+{"level":"error","message":"Danggg: Phone number already exist","timestamp":"2025-05-05T05:36:41.508Z"}
+{"level":"error","message":"Danggg: Phone number already exist","timestamp":"2025-05-05T05:36:50.304Z"}
