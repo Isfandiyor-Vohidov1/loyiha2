@@ -12,3 +12,8 @@
 {"level":"error","message":"Danggg: ValidationError: \"graphs\" is not allowed","timestamp":"2025-05-02T07:37:50.402Z"}
 {"level":"error","message":"Danggg: Phone number already exist","timestamp":"2025-05-05T05:36:41.508Z"}
 {"level":"error","message":"Danggg: Phone number already exist","timestamp":"2025-05-05T05:36:50.304Z"}
+{"level":"error","message":"Danggg: Admin not found","timestamp":"2025-05-06T14:13:39.677Z"}
+{"level":"error","message":"Danggg: Admin not found","timestamp":"2025-05-06T14:14:00.197Z"}
+{"level":"error","message":"Danggg: Error: Invalid login: 535 Authentication credentials invalid","timestamp":"2025-05-06T14:14:09.048Z"}
+{"level":"error","message":"Danggg: Error: Invalid login: 535 Authentication credentials invalid","timestamp":"2025-05-06T14:14:58.055Z"}
+{"level":"error","message":"Danggg: Error: Invalid login: 535 Authentication credentials invalid","timestamp":"2025-05-06T14:15:35.913Z"}

@@ -58,3 +58,17 @@
 {"level":"info","message":"Server running on port 2000","timestamp":"2025-05-05T05:34:21.235Z"}
 {"level":"error","message":"Danggg: Phone number already exist","timestamp":"2025-05-05T05:36:41.508Z"}
 {"level":"error","message":"Danggg: Phone number already exist","timestamp":"2025-05-05T05:36:50.304Z"}
+{"level":"info","message":"Server running on port 2000","timestamp":"2025-05-06T14:12:45.299Z"}
+{"level":"error","message":"Danggg: Admin not found","timestamp":"2025-05-06T14:13:39.677Z"}
+{"level":"error","message":"Danggg: Admin not found","timestamp":"2025-05-06T14:14:00.197Z"}
+{"level":"info","message":"Server running on port 2000","timestamp":"2025-05-06T14:14:05.296Z"}
+{"level":"error","message":"Danggg: Error: Invalid login: 535 Authentication credentials invalid","timestamp":"2025-05-06T14:14:09.048Z"}
+{"level":"info","message":"Server running on port 2000","timestamp":"2025-05-06T14:14:53.544Z"}
+{"level":"error","message":"Danggg: Error: Invalid login: 535 Authentication credentials invalid","timestamp":"2025-05-06T14:14:58.055Z"}
+{"level":"info","message":"Server running on port 2000","timestamp":"2025-05-06T14:15:31.998Z"}
+{"level":"error","message":"Danggg: Error: Invalid login: 535 Authentication credentials invalid","timestamp":"2025-05-06T14:15:35.913Z"}
+{"level":"info","message":"Server running on port 2000","timestamp":"2025-05-06T14:19:24.131Z"}
+{"level":"info","message":"Server running on port 2000","timestamp":"2025-05-06T14:30:19.443Z"}
+{"level":"info","message":"Server running on port 2000","timestamp":"2025-05-06T14:30:23.379Z"}
+{"level":"info","message":"Server running on port 2000","timestamp":"2025-05-06T14:42:46.578Z"}
+{"level":"info","message":"Server running on port 2000","timestamp":"2025-05-06T15:28:10.524Z"}

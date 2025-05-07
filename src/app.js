@@ -7,6 +7,7 @@ import graphRouter from './routes/graph.routes.js';
 import cookieParser from 'cookie-parser';
 import logger from './utils/logger/logger.js';
 import patientRouter from './routes/patient.routes.js'
+import Appointment from './routes/appointment.routes.js';
 config();
 
 const app = express();
@@ -20,6 +21,7 @@ app.use('/admin', adminRouter);
 app.use('/doctor', doctorRouter);
 app.use('/graph', graphRouter);
 app.use('/patient', patientRouter)
+app.use('/appointment', Appointment)
 
 process.on('uncaughtException', (err) => {
   if (err) console.log(`Uncaught exception: ${err}`);
